@@ -3,7 +3,20 @@
 <img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" alt="Abbhilash's Image" style="width: 200px; height: 200px; border-radius: 50%;" />
 
 
-Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a final year **Cybersecurity student** at **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field. 💻🛡️
+Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a final year **Cybersecurity student** at **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field.
+
+### 🧠 CTF Writeups & Cybersecurity Notes
+
+I document my journey in ethical hacking, CTFs, and platform-based learning here:
+
+🔗 **[Visit My CTF Writeups Site](https://abby-exe.github.io)**  
+Includes:
+- TryHackMe & HTB walkthroughs  
+- PortSwigger labs  
+- Bug bounty reports  
+- SOC blue team analysis
+
+> 💡 Constantly updated as I learn more!
 
 ---
 
