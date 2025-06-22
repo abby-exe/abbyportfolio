@@ -97,8 +97,14 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
 ![OSINT](https://img.shields.io/badge/OSINT-333333?logo=search&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-333333?logo=kali-linux&logoColor=white)
 
-![Computer Forensics](https://img.shields.io/badge/Computer_Forensics-333333?logo=adguard&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-333333?logo=bugcrowd&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-333333?logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-333333?logo=magnifyingglass&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-333333?logo=wireshark&logoColor=white)
+![TRiD](https://img.shields.io/badge/TRiD_File-Identifier-333333?logo=file&logoColor=white)
+![TRiDNet](https://img.shields.io/badge/TRiDNet-333333?logo=file&logoColor=white)
+![BinText](https://img.shields.io/badge/BinText-333333?logo=notepad&logoColor=white)
+![Steganalysis](https://img.shields.io/badge/Steganalysis_Tools-333333?logo=image&logoColor=white)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-333333?logo=virustotal&logoColor=white)
 
 ![VS Code](https://img.shields.io/badge/VS_Code-333333?logo=visualstudiocode&logoColor=blue)
 ![WAMP](https://img.shields.io/badge/WAMP-333333?logo=apache&logoColor=white)
