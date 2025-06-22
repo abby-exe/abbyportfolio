@@ -119,8 +119,11 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
   - A web-based system for employees to submit overtime and managers to approve with reporting.
   - **Tech Stack**: PHP, MySQL, HTML5, CSS, JavaScript, WAMP, PhpMyAdmin
 
+---
+
+<br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVva29xMGJibHRweW14bXBlMGtxaG5mZHM3OTA4N202OXowMHVvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Hacker GIF" width="50%">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVva29xMGJibHRweW14bXBlMGtxaG5mZHM3OTA4N202OXowMHVvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Hacker GIF" width="60%">
 </p>
 
 <!-- End of Portfolio -->
