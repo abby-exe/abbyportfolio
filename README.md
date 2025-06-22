@@ -89,21 +89,39 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
 ---
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4Nmhmc3pmcGZreDd4bzVzMjR0OXR0cG90Zzd1a2FhdThpMDFmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378m383ScB09wPuw/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/> **Technologies & Tools I'm Familiar With** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2V4Nmhmc3pmcGZreDd4bzVzMjR0OXR0cG90Zzd1a2FhdThpMDFmdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378m383ScB09wPuw/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/>
-![Linux](https://img.shields.io/badge/Linux-333333?logo=linux&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-333333?logo=c%2B%2B&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-333333?logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-333333?logo=docker&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-333333?logo=kali&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-333333?logo=html5&logoColor=orange)
+![CSS3](https://img.shields.io/badge/CSS3-333333?logo=css3&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?logo=javascript&logoColor=yellow)
+![PHP](https://img.shields.io/badge/PHP-333333?logo=php&logoColor=777bb4)
+![MySQL](https://img.shields.io/badge/MySQL-333333?logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?logo=bootstrap&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?logo=python&logoColor=yellow)
+
+![OSINT](https://img.shields.io/badge/OSINT-333333?logo=search&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-333333?logo=kali-linux&logoColor=white)
+
+![Computer Forensics](https://img.shields.io/badge/Computer_Forensics-333333?logo=adguard&logoColor=white)
+![Malware Analysis](https://img.shields.io/badge/Malware_Analysis-333333?logo=bugcrowd&logoColor=white)
+
+![VS Code](https://img.shields.io/badge/VS_Code-333333?logo=visualstudiocode&logoColor=blue)
+![WAMP](https://img.shields.io/badge/WAMP-333333?logo=apache&logoColor=white)
+![PhpMyAdmin](https://img.shields.io/badge/PhpMyAdmin-333333?logo=phpmyadmin&logoColor=white)
 
 ---
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYxNW9jbTA1NWI5OHliYTRvaG9qYzBlODB2eDB1cWcxYjZpaXZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/> **Projects** <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXYxNW9jbTA1NWI5OHliYTRvaG9qYzBlODB2eDB1cWcxYjZpaXZlMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/>
-- **[Project 1: Vulnerability Assessment Tool](https://github.com/abbhilashsimanchalam/vulnerability-assessment)**
-  - Description: A tool for conducting vulnerability assessments on network systems.
-  - Technologies: Python, Kali Linux, Qualys VMDR
-- **[Project 2: Ethical Hacking Framework](https://github.com/abbhilashsimanchalam/ethical-hacking-framework)**
-  - Description: A comprehensive framework for ethical hacking practices.
-  - Technologies: C++, Networking, Cryptography
+- 🦇 **[Batman Tribute Website](https://github.com/abby-exe/darknightdomain)**
+  - A dark-themed full-stack web app with user login, admin product management, and session handling.
+  - **Tech Stack**: PHP, MySQL, HTML5, CSS, JS, Bootstrap
+
+- 🕵️ **[Advanced Passive Reconnaissance Tool](https://github.com/abby-exe/advanced-passive-recon-tool)**
+  - Python automation for OSINT-based reconnaissance using Sublist3r, Shodan, Whois, and Google Dorks.
+  - **Tech Stack**: Python, OSINT, Sublist3r, Visual Studio Code
+
+- ⏱️ **[Overtime Management System](https://github.com/abby-exe/overtime-management-system)**
+  - A web-based system for employees to submit overtime and managers to approve with reporting.
+  - **Tech Stack**: PHP, MySQL, HTML5, CSS, JavaScript, WAMP, PhpMyAdmin
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVva29xMGJibHRweW14bXBlMGtxaG5mZHM3OTA4N202OXowMHVvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif" alt="Hacker GIF" width="50%" style="opacity: 0.1; position: absolute; z-index: -1;"/>
 
