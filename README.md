@@ -1,7 +1,12 @@
-# <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxrOTFyanRxbW5vdjh0dXU5NjBsbHA5cDMzejZiZG5ndmVwOHd4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Hacker GIF" width="30" style="vertical-align: middle;"/> **Abbhilash Simanchalam** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxrOTFyanRxbW5vdjh0dXU5NjBsbHA5cDMzejZiZG5ndmVwOHd4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" alt="Hacker GIF" width="30" style="vertical-align: middle;"/>
+<h1 align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxrOTFyanRxbW5vdjh0dXU5NjBsbHA5cDMzejZiZG5ndmVwOHd4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="30"/>
+  <strong>Abbhilash Simanchalam</strong>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxrOTFyanRxbW5vdjh0dXU5NjBsbHA5cDMzejZiZG5ndmVwOHd4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif" width="30"/>
+</h1>
 
-<img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" alt="Abbhilash's Image" style="width: 200px; height: 200px; border-radius: 50%;" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" width="200" height="200" style="border-radius: 50%;">
+</p>
 
 Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a final year **Cybersecurity student** at **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field.
 
