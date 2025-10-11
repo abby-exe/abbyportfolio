@@ -143,6 +143,11 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
   - A web-based system for employees to submit overtime and managers to approve with reporting.
   - **Tech Stack**: PHP, MySQL, HTML5, CSS, JavaScript, WAMP, PhpMyAdmin
 
+- - 🔐 **[Secure Messenger -FYP](https://github.com/abby-exe/Secure-Messenger)**
+  - A Raspberry Pi–based encrypted messenger with **USB key authentication**, **VPN enforcement**, and **self-destructing chats** designed to prevent phishing, SIM swapping, and remote access abuse.  
+  - Built for privacy-focused users, cybersecurity students, and FYP research in secure communication systems.  
+  - **Tech Stack**: Python (Flask), SQLite, Rocket.Chat API, OpenVPN, Bash, Bootstrap, JavaScript, Raspberry Pi 4 B
+
 ---
 
 <br>
