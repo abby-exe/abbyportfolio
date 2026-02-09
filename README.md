@@ -50,7 +50,7 @@ Abbhilash@kali:~# status
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN3c2xzazUxcGF2MXY4cnRncG5hZTFrZGNpcGllaDNlNW5yZGg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6OiiampNcye4/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/> **Academic Background** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN3c2xzazUxcGF2MXY4cnRncG5hZTFrZGNpcGllaDNlNW5yZGg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6OiiampNcye4/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/>
 - **Bachelor of Computer Science (Cybersecurity) (Hons.)**
   - Universiti Tenaga Nasional (UNITEN) — 2022-Present
-  - **CGPA**: 3.00
+  - **CGPA**: 3.33
 - **Foundation in Computer Science**
   - Universiti Tenaga Nasional (UNITEN) — 2020-2021
   - **CGPA**: 3.70
