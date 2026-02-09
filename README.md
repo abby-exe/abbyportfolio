@@ -78,8 +78,9 @@ Abbhilash@kali:~# status
 ---
 
 ### <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxN25uMmpsd2VteDZ4ZWFxeDJjczBuNTZ0ODNndWQzZjNpaGkwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLLZP2AiOCsPLYgi7G/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/> **Awards** <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNxN25uMmpsd2VteDZ4ZWFxeDJjczBuNTZ0ODNndWQzZjNpaGkwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aLLZP2AiOCsPLYgi7G/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/>
-- **Dean’s List** — 2021 (Foundation in Computer Science)
-
+- **Dean’s List** — 2021 (Foundation in Computer Science) - Throughout programme
+- **Dean’s List** — 2024-2025 (BCs.Cybersecurity (Hons.)) - 3 consecutive semesters
+- 
 ---
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThsaTM2Mzk3bDNsanQyMGFmbjNveG1jbWozY21qa3FrdmZ2OWRtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FQ87l4tXAZWGvV3yY/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/> **Career Ambition** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThsaTM2Mzk3bDNsanQyMGFmbjNveG1jbWozY21qa3FrdmZ2OWRtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3FQ87l4tXAZWGvV3yY/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/>
