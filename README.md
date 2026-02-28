@@ -92,7 +92,7 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
 ---
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI4ajk5bndoOWJ3aXVwZnJtcjA5MDVqcXU3NDg2bWkzbGxtOW9lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3vYj47OF08WFjfjNJ/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/> **Contact Info** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWI4ajk5bndoOWJ3aXVwZnJtcjA5MDVqcXU3NDg2bWkzbGxtOW9lcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/E3vYj47OF08WFjfjNJ/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/>
-- 📧 Email: [Abbylash2002@gmail.com](mailto:Abbylash2002@gmail.com)
+- 📧 Email: [abbhi.iwork@gmail.com](mailto:abbhi.iwork@gmail.com)
 - 🌍 Location: Unknown
 
 ---
