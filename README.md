@@ -37,7 +37,7 @@ Abbhilash@kali:~# whoami
 
 Abbhilash@kali:~# profession
 
-**Cybersecurity Enthusiast & Student**
+**Cybersecurity Enthusiast**
 
 Abbhilash@kali:~# skills
 
