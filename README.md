@@ -8,7 +8,7 @@
   <img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a final year **Cybersecurity student** at **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field.
+Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a **Cybersecurity Graduate** from **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field.
 
 ### 🧠 CTF Writeups & Cybersecurity Notes
 
@@ -17,7 +17,7 @@ I document my journey in ethical hacking, CTFs, and platform-based learning here
 🔗 **[Visit My CTF Writeups Site](https://abby-exe.github.io)**  
 Includes:
 - TryHackMe & HTB walkthroughs  
-- PortSwigger labs  
+- EJPT labs  
 - Bug bounty reports  
 - SOC blue team analysis
 
@@ -49,7 +49,7 @@ Abbhilash@kali:~# status
 
 ### <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN3c2xzazUxcGF2MXY4cnRncG5hZTFrZGNpcGllaDNlNW5yZGg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6OiiampNcye4/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/> **Academic Background** <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnN3c2xzazUxcGF2MXY4cnRncG5hZTFrZGNpcGllaDNlNW5yZGg1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/s6OiiampNcye4/giphy.gif" alt="Hacker GIF" width="20" style="vertical-align: middle;"/>
 - **Bachelor of Computer Science (Cybersecurity) (Hons.)**
-  - Universiti Tenaga Nasional (UNITEN) — 2022-Present
+  - Universiti Tenaga Nasional (UNITEN) — 2022-2026
   - **CGPA**: 3.33
 - **Foundation in Computer Science**
   - Universiti Tenaga Nasional (UNITEN) — 2020-2021
