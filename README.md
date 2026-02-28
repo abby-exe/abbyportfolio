@@ -8,7 +8,13 @@
   <img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-Welcome to my **GitHub Portfolio**, where I specialize in cybersecurity, ethical hacking, and network security. I’m currently a **Cybersecurity Graduate** from **Universiti Tenaga Nasional** (UNITEN) looking for practical experience and real-world challenges in the cybersecurity field.
+## 👋 Welcome to My GitHub Portfolio
+
+Welcome to my **GitHub Portfolio**, where I explore **cybersecurity**, **ethical hacking**, and **network security** through hands-on projects and practical implementations.
+
+I’m a **Cybersecurity Enthusiast** passionate about building secure systems, understanding attack methodologies, and strengthening defensive strategies against real-world threats.
+
+This portfolio showcases my journey in offensive and defensive security, including labs, tools, writeups, and security-focused development projects.
 
 ### 🧠 CTF Writeups & Cybersecurity Notes
 
