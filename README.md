@@ -8,8 +8,6 @@
   <img src="https://github.com/user-attachments/assets/565d7b59-4b3b-4bb8-8456-74a1b7c6f7fa" width="200" height="200" style="border-radius: 50%;">
 </p>
 
-## 👋 Welcome to My GitHub Portfolio
-
 Welcome to my **GitHub Portfolio**, where I explore **cybersecurity**, **ethical hacking**, and **network security** through hands-on projects and practical implementations.
 
 I’m a **Cybersecurity Enthusiast** passionate about building secure systems, understanding attack methodologies, and strengthening defensive strategies against real-world threats.
