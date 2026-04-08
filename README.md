@@ -153,6 +153,12 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
   - Built for privacy-focused users, cybersecurity students, and FYP research in secure communication systems.  
   - **Tech Stack**: Python (Flask), SQLite, Rocket.Chat API, OpenVPN, Bash, Bootstrap, JavaScript, Raspberry Pi 4 B
 
+- 🧠 **[JARVIS - Local Cybersecurity AI Assistant](https://github.com/abby-exe/Jarvis_CyberSecurity_AI)**
+  - A fully local cybersecurity AI assistant powered by **Ollama LLMs** with a custom **tool execution engine** capable of running security tools (nmap, gobuster, sqlmap) directly from the interface.  
+  - Designed for **CTF solving, ethical hacking practice, and cybersecurity learning**, with built-in templates, quick commands, and real-time model switching.  
+  - Supports multiple models ranging from lightweight (Mistral, LLaMA) to advanced reasoning models (DeepSeek, Red Team–focused LLMs).  
+  - **Tech Stack**: Python (Gradio), Ollama, Local LLMs (Qwen, DeepSeek, Mistral), Subprocess (Command Execution), HTML/CSS, JavaScript
+
 ---
 
 <br>
