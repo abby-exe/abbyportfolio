@@ -159,6 +159,13 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
   - Supports multiple models ranging from lightweight (Mistral, LLaMA) to advanced reasoning models (DeepSeek, Red Team–focused LLMs).  
   - **Tech Stack**: Python (Gradio), Ollama, Local LLMs (Qwen, DeepSeek, Mistral), Subprocess (Command Execution), HTML/CSS, JavaScript
 
+- 🛡️ **[Metasploitable 2 Vulnerability Assessment (Nessus)](https://github.com/abby-exe/metasploitable-vulnerability-assessment)**
+  - Conducted a full **vulnerability assessment** on an intentionally vulnerable system using **Tenable Nessus**, identifying **73 vulnerabilities** across multiple services.  
+  - Analyzed **critical and high-risk security flaws** including backdoors, weak authentication, outdated protocols, and misconfigurations, with real-world attack impact explanations.  
+  - Produced a structured **security assessment report** with prioritized findings and rewritten remediation strategies based on CVSS scoring and risk severity.  
+  - Demonstrates practical skills in **vulnerability scanning, risk analysis, and security reporting** aligned with real-world Vulnerability Analyst workflows.  
+  - **Tech Stack**: Nessus, Metasploitable 2, Virtualization (VMware), Networking (NAT), CVSS Scoring  
+
 ---
 
 <br>
