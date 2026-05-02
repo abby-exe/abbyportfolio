@@ -71,6 +71,9 @@ Abbhilash@kali:~# status
 ---
 
 ### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW52dm5lNGE2bW4xOXFxb3J0bnNyOTZjbHJ6aWd2cHFnNGQ0MjgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/> **Certifications** <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW52dm5lNGE2bW4xOXFxb3J0bnNyOTZjbHJ6aWd2cHFnNGQ0MjgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" alt="Hacker GIF" width="40" style="vertical-align: middle;"/>
+- **SOC Analyst Path** — Let's Defend
+- **Blue Team Junior Analyst (BTJA)** — Security Blue Team
+- **OSINT Certification** — 0Day
 - **Vulnerability Management Foundation** — Qualys
 - **VMDR - Vulnerability Management, Detection and Response** — Qualys
 - **Ethical Hacking Essentials (EHE)** — EC-Council
@@ -164,7 +167,14 @@ My goal is to become a leading figure in the cybersecurity industry. I am passio
   - Analyzed **critical and high-risk security flaws** including backdoors, weak authentication, outdated protocols, and misconfigurations, with real-world attack impact explanations.  
   - Produced a structured **security assessment report** with prioritized findings and rewritten remediation strategies based on CVSS scoring and risk severity.  
   - Demonstrates practical skills in **vulnerability scanning, risk analysis, and security reporting** aligned with real-world Vulnerability Analyst workflows.  
-  - **Tech Stack**: Nessus, Metasploitable 2, Virtualization (VMware), Networking (NAT), CVSS Scoring  
+  - **Tech Stack**: Nessus, Metasploitable 2, Virtualization (VMware), Networking (NAT), CVSS Scoring
+
+- 🤑 **[Ransomware SIEM Detection Lab (Wazuh)](https://github.com/abby-exe/Ransomware-SIEM)**
+  - Built a full **SIEM monitoring lab** using **Wazuh on Ubuntu** with a **Windows 10 victim VM**, simulating ransomware behavior using **Atomic Red Team**.  
+  - Detected multiple **attack techniques (MITRE ATT&CK aligned)** through log analysis, including file modification, persistence, and suspicious process activity.  
+  - Configured **log collection, alert rules, and detection pipelines** to identify malicious behavior and improve incident visibility in real time.  
+  - Demonstrates hands-on skills in **SIEM engineering, threat detection, and blue team analysis** aligned with real-world SOC workflows.  
+  - **Tech Stack**: Wazuh, Ubuntu, Windows 10, Atomic Red Team, MITRE ATT&CK, VirtualBox  
 
 ---
 
